@@ -1,3 +1,5 @@
+⚠️ This library is archived and move to [github.com/ikawaha/errors](https://github.com/ikawaha/errors). 
+
 verbose
 ===
 
